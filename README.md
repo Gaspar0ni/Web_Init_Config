@@ -9,3 +9,4 @@ adicinar tags para o facebook
 
 adicinar meta author, description e keywords
 
+colocar o arquivo reset.css
