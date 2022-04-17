@@ -16,6 +16,12 @@ adicionar Poppy e JQuery
 <meta name="facebook-domain-verification" content="vqrxyosa6ap4r6b2ok1npjezu3js52" />
 ```
 
-adicinar meta author, description e keywords
+### adicinar meta author, description e keywords
+
+```
+<meta name="author" content="github/Gaspar0ni">
+<meta name="description" content="Essa é uma descrição do site">
+<meta name="keywords" content="HD Events, Events, Festas">
+```
 
 colocar o arquivo reset.css
