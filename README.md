@@ -91,4 +91,4 @@ table {
 
 #### Algumas fontes que podem ser usadas
 
-[Google Fonts](@import url(https://fonts.google.com/)
+[Google Fonts](https://fonts.google.com/)
