@@ -5,7 +5,7 @@ adicionar bootstrap JS e CSS
 
 adicionar Poppy e JQuery
 
-## adicinar tags para o facebook como no exemplo abaixo
+## Adicinar tags para o facebook como no exemplo abaixo
 
 ```
 <!-- META TAGS FACEBOOK -->
@@ -16,7 +16,7 @@ adicionar Poppy e JQuery
 <meta name="facebook-domain-verification" content="vqrxyosa6ap4r6b2ok1npjezu3js52" />
 ```
 
-### adicinar meta author, description e keywords
+### Adicinar meta author, description e keywords
 
 ```
 <meta name="author" content="github/Gaspar0ni">
@@ -24,4 +24,6 @@ adicionar Poppy e JQuery
 <meta name="keywords" content="HD Events, Events, Festas">
 ```
 
-colocar o arquivo reset.css
+### Colocar o arquivo reset.css
+
+[Arquivo Reset](https://meyerweb.com/eric/tools/css/reset/)
