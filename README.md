@@ -88,3 +88,7 @@ table {
 	border-spacing: 0;
 }
 ```
+
+#### Algumas fontes que podem ser usadas
+
+[Google Fonts](@import url(https://fonts.google.com/)
