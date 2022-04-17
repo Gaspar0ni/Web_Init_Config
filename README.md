@@ -34,7 +34,7 @@ adicionar Poppy e JQuery
 <meta name="keywords" content="HD Events, Events, Festas">
 ```
 
-### Colocar o arquivo reset.css
+### Colocar o arquivo reset.css (lembrar de colocar ele depois do normalize)
 
 [Arquivo Reset](https://meyerweb.com/eric/tools/css/reset/)
 
