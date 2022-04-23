@@ -107,3 +107,7 @@ table {
 #### Algumas fontes que podem ser usadas
 
 [Google Fonts](https://fonts.google.com/)
+
+### Acessibilidade
+
+[Aqui](https://www.syncfusion.com/blogs/post/5-important-things-to-make-your-cross-platform-net-maui-app-accessible.aspx)
